@@ -1,0 +1,1 @@
+# make examples a package
