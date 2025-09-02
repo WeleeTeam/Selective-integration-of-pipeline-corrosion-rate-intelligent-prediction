@@ -1,4 +1,4 @@
-### 目录结构
+### example目录结构
 
 - `corrosion_data.csv`: 真实腐蚀数据，列包含数值与类别特征以及目标列 `corrosion_rate`
 - `data/utils.py`: 数据工具
